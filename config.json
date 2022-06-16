@@ -1,6 +1,7 @@
 
 {
   "name": "Pointcloud episodes labeling tool",
+  "description": "complete solution for LiDAR episodes annotation with photo context",
   "type": "annotation_tool",
   "annotation_tool_type": "point_cloud_episodes_v1",
   "categories": [
