@@ -13,6 +13,7 @@
   "icon_background": "#FFFFFF",
   "icon_cover": false,
   "icon": "https://cdn.supervise.ly/img/3d-toolbox.01b2250.png",
+  "poster": "https://user-images.githubusercontent.com/12828725/174098654-d312c8e6-5058-407f-a0be-a01ca235ab3c.png",
   "context_menu": {
     "target": [
       "point_cloud_episodes_dataset"
