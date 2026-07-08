@@ -35,7 +35,7 @@ Annotation of point cloud scenes is not an easy task. Inspired by professional s
 <div align="center" markdown>
 
 ### POINT CLOUD NAVIGATION & ANNOTATION
-# 3D Object detection and Classification
+# 3D Object Detection and Classification
 
 </div>
 
